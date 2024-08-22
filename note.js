@@ -45,3 +45,5 @@ var dbo=await connect();
     res.send(data);
     console.log('data added succesfully there',data);
 });
+
+app.use
